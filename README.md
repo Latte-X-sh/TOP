@@ -1,2 +1,2 @@
 # TOP
-The odin project
+The is Latte's first git project.
