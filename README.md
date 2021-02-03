@@ -1,2 +1,2 @@
 # TOP
-The odin projetc
+The odin project
